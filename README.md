@@ -1,2 +1,2 @@
 # guacamole
-optional
+Portfoliohoz sokminden
